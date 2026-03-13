@@ -212,7 +212,6 @@ permalink: /
 
 <hr class="divider">
 
-<!-- ══════════════════ CONTACT ══════════════════ -->
 <div class="contact-section">
   <h2 class="section-title">Contact</h2>
   <p>
@@ -221,10 +220,9 @@ permalink: /
     💼 <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
   </p>
 
-  <!-- Download button  -->
-  <div class="contact-section">
+<!-- ══════════════════ Resume ══════════════════ -->
+<div class="contact-section">
   <h2 class="section-title">Resume</h2>
   <p>
-    Download Personal Resume <a href="/files/IsabellaMcLaughlinResume.pdf" target="_blank">
-    Download Personal Resume" target="_blank">Here</a>
+    Download Personal Resume <a href="/files/IsabellaMcLaughlinResume.pdf" target="_blank">Here</a>
   </p>
