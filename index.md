@@ -220,12 +220,12 @@ permalink: /
   </p>
 
   <!-- Download button — update the href to your actual resume file path -->
-  <a class="resume-btn" href="/files/resume.pdf" target="_blank">
+  <a class="resume-btn" href="/files/IsabellaMcLaughlinResume.pdf" target="_blank">
     📄 View My Resume
   </a>
 
   <!-- Inline PDF preview — same file path as above -->
   <div class="resume-embed">
-    <iframe src="/files/resume.pdf" title="Isabella's Resume"></iframe>
+    <iframe src="/files/IsabellaMcLaughlinResume.pdf" title="Isabella's Resume"></iframe>
   </div>
 </div>
