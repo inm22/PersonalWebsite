@@ -175,7 +175,7 @@ permalink: /
   <!-- Replace the src below with your actual photo path, e.g. /files/profile.jpg -->
   <img class="hero-photo" src="/files/profile.jpg" alt="Photo of Isabella" />
   <h1>Hi, I'm Isabella McLaughlin</h1>
-  <p class="tagline">Structural Design Engineer at Boeing and pursuing a Master's degree in Computer Science at the University of Washington</p>
+  <p class="tagline">Structural Design Engineer <br> M.S. Computer Science (in progress) <br> B.S. Mechanical Engineering</p>
 </div>
 
 <hr class="divider">
