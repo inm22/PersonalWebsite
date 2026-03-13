@@ -173,10 +173,10 @@ permalink: /
 
 <!-- ══════════════════ HERO ══════════════════ -->
 <div class="hero">
-  <!-- Replace the src below with your actual photo path, e.g. /assets/images/profile.jpg -->
-  <img class="hero-photo" src="/assets/images/profile.jpg" alt="Photo of Isabella" />
-  <h1>Hi, I'm Isabella 👋</h1>
-  <p class="tagline">Master's student in [Your Program] at [Your University]</p>
+  <!-- Replace the src below with your actual photo path, e.g. /files/profile.jpg -->
+  <img class="hero-photo" src="/files/profile.jpg" alt="Photo of Isabella" />
+  <h1>Hi, I'm Isabella McLaughlin</h1>
+  <p class="tagline">I am currently working at Boeing as a Structural Design Engineer and am pursuing my master's degree in Computer Science at the University of Washington</p>
 </div>
 
 <hr class="divider">
@@ -185,9 +185,7 @@ permalink: /
 <div class="about-section">
   <h2 class="section-title">About Me</h2>
   <p>
-    [Write your about me paragraph here. Tell visitors who you are, what you're passionate about,
-    what you're currently studying or researching, and anything else you'd like people to know
-    about you — your background, interests, goals, or what drives your work.]
+    [Write your about me paragraph here.]
   </p>
 </div>
 
@@ -198,20 +196,14 @@ permalink: /
   <h2 class="section-title">Education</h2>
   <div class="schools-grid">
 
-    <!-- Add or remove <img> blocks for each school.
-         Place logo files in /assets/images/ and update the src paths. -->
 
     <img class="school-logo"
-         src="/assets/images/school1-logo.png"
-         alt="[School Name 1]" />
+         src="/files/school1-logo.png"
+         alt="Columbia University" />
 
     <img class="school-logo"
-         src="/assets/images/school2-logo.png"
-         alt="[School Name 2]" />
-
-    <img class="school-logo"
-         src="/assets/images/school3-logo.png"
-         alt="[School Name 3]" />
+         src="/files/school2-logo.png"
+         alt="University of Washington" />
 
   </div>
 </div>
@@ -228,12 +220,12 @@ permalink: /
   </p>
 
   <!-- Download button — update the href to your actual resume file path -->
-  <a class="resume-btn" href="/assets/resume.pdf" target="_blank">
+  <a class="resume-btn" href="/files/resume.pdf" target="_blank">
     📄 View My Resume
   </a>
 
   <!-- Inline PDF preview — same file path as above -->
   <div class="resume-embed">
-    <iframe src="/assets/resume.pdf" title="Isabella's Resume"></iframe>
+    <iframe src="/files/resume.pdf" title="Isabella's Resume"></iframe>
   </div>
 </div>
