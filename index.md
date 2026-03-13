@@ -195,14 +195,23 @@ permalink: /
   <h2 class="section-title">Education</h2>
   <div class="schools-grid">
 
+    <a href="/education">
+      <img class="school-logo"
+           src="/files/CU.jpg"
+           alt="Columbia University" />
+    </a>
 
-    <img class="school-logo"
-         src="/files/CU.jpg"
-         alt="Columbia University" />
+    <a href="/education">
+      <img class="school-logo"
+           src="/files/UW.png"
+           alt="University of Washington" />
+    </a>
 
-    <img class="school-logo"
-         src="/files/UW.png"
-         alt="University of Washington" />
+    <a href="/education">
+      <img class="school-logo"
+           src="/assets/images/school3-logo.png"
+           alt="[School Name 3]" />
+    </a>
 
   </div>
 </div>
