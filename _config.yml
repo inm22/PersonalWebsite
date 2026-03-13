@@ -1,4 +1,10 @@
-title: Your Name
-description: UW Student | Your Major
+title: Isabella McLaughlin
+description: Boeing Structural Design Engineer
 theme: minima
 url: "https://isabellamclaughlin.com"
+
+header_pages:
+  - index.md
+  - experience.md
+  - education.md
+  - resume.md
