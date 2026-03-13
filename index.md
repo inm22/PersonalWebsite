@@ -29,7 +29,7 @@ permalink: /
     object-fit: cover;
     border: 4px solid #c9a96e;
     box-shadow: 0 8px 30px rgba(0,0,0,0.12);
-    margin-bottom: 0;
+    margin-bottom: 1rem;
   }
 
   .hero h1 {
