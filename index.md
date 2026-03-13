@@ -212,14 +212,6 @@ permalink: /
 
 <hr class="divider">
 
-<div class="contact-section">
-  <h2 class="section-title">Contact</h2>
-  <p>
-    Feel free to reach out — I'd love to connect!<br>
-    📧 <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-    💼 <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
-  </p>
-
 <!-- ══════════════════ Resume ══════════════════ -->
 <div class="contact-section">
   <h2 class="section-title">Resume</h2>
