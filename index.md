@@ -23,8 +23,8 @@ permalink: /
   }
 
   .hero-photo {
-    width: 320px;
-    height: 320px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid #c9a96e;
@@ -34,7 +34,7 @@ permalink: /
 
   .hero h1 {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 2.8rem;
+    font-size: 2rem;
     font-weight: 600;
     margin: 0 0 0.4rem;
     letter-spacing: -0.5px;
