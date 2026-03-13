@@ -10,7 +10,7 @@ permalink: /
   body {
     font-family: 'DM Sans', sans-serif;
     color: #1a1a2e;
-    background: #fafaf8;
+    background: #fdfdfc;
   }
 
   /* ── Hero Section ── */
