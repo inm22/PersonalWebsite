@@ -218,3 +218,14 @@ permalink: /
   <p>
     Download Personal Resume <a href="/files/IsabellaMcLaughlinResume.pdf" target="_blank">Here</a>
   </p>
+
+<!-- ══════════════════ FOOTER ══════════════════ -->
+<hr class="divider">
+
+<footer style="max-width: 680px; margin: 2rem auto 1rem; padding: 0 1rem; text-align: center; font-size: 0.85rem; color: #888;">
+  <div style="display: flex; justify-content: center; gap: 1rem; margin-bottom: 0.75rem;">
+    <a href="mailto:your.email@example.com" style="color: #c9a96e; text-decoration: none; font-weight: 500;">✉ Email</a>
+    <a href="https://linkedin.com/in/yourprofile" target="_blank" style="color: #c9a96e; text-decoration: none; font-weight: 500;"> LinkedIn</a>
+  </div>
+  <p style="margin: 0;">© 2025 Isabella McLaughlin</p>
+</footer>
