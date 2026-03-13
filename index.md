@@ -221,13 +221,10 @@ permalink: /
     💼 <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
   </p>
 
-  <!-- Download button — update the href to your actual resume file path -->
-  <a class="resume-btn" href="/files/IsabellaMcLaughlinResume.pdf" target="_blank">
-    📄 View My Resume
-  </a>
-
-  <!-- Inline PDF preview — same file path as above -->
-  <div class="resume-embed">
-    <iframe src="/files/IsabellaMcLaughlinResume.pdf" title="Isabella's Resume"></iframe>
-  </div>
-</div>
+  <!-- Download button  -->
+  <div class="contact-section">
+  <h2 class="section-title">Resume</h2>
+  <p>
+    Download Personal Resume <a href="/files/IsabellaMcLaughlinResume.pdf" target="_blank">
+    Download Personal Resume" target="_blank">Here</a>
+  </p>
