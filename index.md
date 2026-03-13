@@ -24,8 +24,8 @@ permalink: /
   }
 
   .hero-photo {
-    width: 160px;
-    height: 160px;
+    width: 320px;
+    height: 320px;
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid #c9a96e;
