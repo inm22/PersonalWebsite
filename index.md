@@ -19,7 +19,7 @@ permalink: /
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 3rem 1rem 2rem;
+    padding: 0 1rem 2rem;
   }
 
   .hero-photo {
