@@ -197,7 +197,7 @@ permalink: /
 
 
     <img class="school-logo"
-         src="/files/CU.png"
+         src="/files/CU.jpg"
          alt="Columbia University" />
 
     <img class="school-logo"
