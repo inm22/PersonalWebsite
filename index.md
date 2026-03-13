@@ -23,13 +23,13 @@ permalink: /
   }
 
   .hero-photo {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     border: 4px solid #c9a96e;
     box-shadow: 0 8px 30px rgba(0,0,0,0.12);
-    margin-bottom: 1.5rem;
+    margin-bottom: 0;
   }
 
   .hero h1 {
