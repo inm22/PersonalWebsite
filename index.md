@@ -207,12 +207,6 @@ permalink: /
            alt="University of Washington" />
     </a>
 
-    <a href="/education">
-      <img class="school-logo"
-           src="/assets/images/school3-logo.png"
-           alt="[School Name 3]" />
-    </a>
-
   </div>
 </div>
 
