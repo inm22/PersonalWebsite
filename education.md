@@ -7,7 +7,7 @@ permalink: /education/
 # Education
 
 ## Columbia University
-**B.S. in [Mechanical Engineering]** — September 2019 - May 2023
+**B.S. in Mechanical Engineering** — May 2023
 
 ### Classes Taken
 | Course | Title |
