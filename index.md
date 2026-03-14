@@ -184,7 +184,10 @@ permalink: /
 <div class="about-section">
   <h2 class="section-title">About Me</h2>
   <p>
-    [Write your about me paragraph here.]
+    I am a mechanical engineer with a strong interest in software, specifically in how it can drive the efficiency and productivity of engineering workflows. My background spans 3 years of mechanical design in aerospace and AEC sectors, alongside expertise in CAD software development: building the automation layers, add-ins, and software solutions that make engineers faster and less error-prone.
+
+My focus is on the tools that live inside the engineering environment itself. That means writing CATIA v5 & 3DExperience API automations that handle repetitive geometry and configuration tasks, building custom add-ins with intuitive GUIs that expose parametric controls to engineers without requiring them to touch a line of code, and developing internal solutions that reduce the gap between design intent and production output. 
+
   </p>
 </div>
 
