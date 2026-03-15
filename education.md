@@ -4,36 +4,209 @@ title: Education
 permalink: /education/
 ---
 
-# Education
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap');
 
-## Columbia University
-**B.S. in Mechanical Engineering** — May 2023
+  h1.post-title, .page-heading {
+    display: none;
+  }
 
-### Classes Taken
-| Course | Title |
-|--------|-------|
-| CSE 101 | Introduction to Computer Science |
-| CSE 201 | Data Structures |
-| MATH 301 | Linear Algebra |
+  body {
+    font-family: 'DM Sans', sans-serif;
+    color: #1a1a2e;
+    background: #fdfdfc;
+  }
 
-## Projects
+  .post-content, .page-content {
+    padding-top: 0 !important;
+  }
 
-**Project Name**
-*Technologies used: Python, JavaScript, etc.*
-Brief description of what the project does and what you learned from
+  .section-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #1a1a2e;
+    border-bottom: 2px solid #c9a96e;
+    display: inline-block;
+    padding-bottom: 4px;
+    margin-bottom: 2rem;
+  }
 
-## University of Washington
-**M.S. in Computer Science** — Expected June 2027
+  .education-container {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
 
-### Classes Taken
-| Course | Title |
-|--------|-------|
-| CSE 101 | Introduction to Computer Science |
-| CSE 201 | Data Structures |
-| MATH 301 | Linear Algebra |
+  .education-entry {
+    display: flex;
+    gap: 2rem;
+    align-items: flex-start;
+    margin-bottom: 3rem;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid #e5e5e5;
+  }
 
-## Projects
+  .education-entry:last-child {
+    border-bottom: none;
+  }
 
-**Project Name**
-*Technologies used: Python, JavaScript, etc.*
-Brief description of what the project does and what you learned from
+  .school-logo {
+    width: 90px;
+    height: 90px;
+    object-fit: contain;
+    flex-shrink: 0;
+    border-radius: 10px;
+    border: 1px solid #e5e5e5;
+    padding: 8px;
+    background: #fff;
+  }
+
+  .education-details {
+    flex: 1;
+  }
+
+  .school-name {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: #1a1a2e;
+    margin: 0 0 0.15rem;
+  }
+
+  .degree-title {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #c9a96e;
+    margin: 0 0 0.15rem;
+  }
+
+  .degree-dates {
+    font-size: 0.85rem;
+    font-weight: 300;
+    color: #888;
+    margin: 0 0 1rem;
+  }
+
+  .subsection-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1a1a2e;
+    margin: 1rem 0 0.5rem;
+  }
+
+  .courses-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  .courses-table th {
+    text-align: left;
+    font-weight: 500;
+    color: #888;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 0.4rem 0.75rem 0.4rem 0;
+  }
+
+  .courses-table td {
+    padding: 0.4rem 0.75rem 0.4rem 0;
+    color: #333;
+    border-bottom: 1px solid #f0f0f0;
+  }
+
+  .courses-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  .project-entry {
+    margin-bottom: 0.75rem;
+  }
+
+  .project-name {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: #1a1a2e;
+    margin: 0 0 0.1rem;
+  }
+
+  .project-tech {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #888;
+    margin: 0 0 0.2rem;
+  }
+
+  .project-desc {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+  }
+</style>
+
+<div class="education-container">
+  <h2 class="section-title">Education</h2>
+
+  <!-- ── Entry 1: Columbia University ── -->
+  <div class="education-entry">
+    <img class="school-logo"
+         src="/assets/images/columbia-logo.png"
+         alt="Columbia University" />
+    <div class="education-details">
+      <p class="school-name">Columbia University</p>
+      <p class="degree-title">B.S. in Mechanical Engineering</p>
+      <p class="degree-dates">May 2023</p>
+
+      <p class="subsection-title">Courses</p>
+      <table class="courses-table">
+        <thead>
+          <tr>
+            <th>Course</th>
+            <th>Title</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>CSE 101</td><td>Introduction to Computer Science</td></tr>
+          <tr><td>CSE 201</td><td>Data Structures</td></tr>
+          <tr><td>MATH 301</td><td>Linear Algebra</td></tr>
+        </tbody>
+      </table>
+
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ── Entry 2: University of Washington ── -->
+  <div class="education-entry">
+    <img class="school-logo"
+         src="/assets/images/uw-logo.png"
+         alt="University of Washington" />
+    <div class="education-details">
+      <p class="school-name">University of Washington</p>
+      <p class="degree-title">M.S. in Computer Science</p>
+      <p class="degree-dates">June 2027 (Expected)</p>
+
+      <p class="subsection-title">Courses</p>
+      <table class="courses-table">
+        <thead>
+          <tr>
+            <th>Course</th>
+            <th>Title</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>CSE 101</td><td>Introduction to Computer Science</td></tr>
+          <tr><td>CSE 201</td><td>Data Structures</td></tr>
+          <tr><td>MATH 301</td><td>Linear Algebra</td></tr>
+        </tbody>
+      </table>
+      </div>
+
+    </div>
+  </div>
+
+</div>
