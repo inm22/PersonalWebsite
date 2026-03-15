@@ -12,6 +12,15 @@ permalink: /experience/
     background: #fdfdfc;
   }
 
+    .experience-container {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+    .post-content, .page-content {
+    padding-top: 0 !important;
+  }
+  
   .section-title {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.8rem;
@@ -89,11 +98,6 @@ permalink: /experience/
 
   .job-details li {
     margin-bottom: 0.3rem;
-  }
-
-    .experience-container {
-    margin-top: 0;
-    padding-top: 0;
   }
   
 </style>
