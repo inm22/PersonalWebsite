@@ -14,6 +14,10 @@ nav_exclude: false
     background: #fdfdfc;
   }
 
+    h1.post-title, .page-heading {
+    display: none;
+  }
+
     .experience-container {
     margin-top: 0;
     padding-top: 0;
