@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Experience
 permalink: /experience/
 ---
 
@@ -106,9 +105,12 @@ permalink: /experience/
       <p class="job-title">Structural Design Engineer</p>
       <p class="job-dates">September 2023 – Present</p>
       <ul class="job-details">
-        <li>Add detail here</li>
-        <li>Add detail here</li>
-        <li>Add detail here</li>
+        <li>Utilize Python to create assitive software tools for design and analysis engineers, saving thousands of manual labor hours</li>
+        <li>Received a Boeing Meritorious Invention Disclosure Award for Generative Design Approach Patent</li>
+        <li>Lead team code review meetings, inviting subject matter experts to enhance code quality and share common practices</li>
+        <li>Create a library of modular functions to be utilized for design software tools in CATIA and 3DExperience </li>
+        <li>Mentor colleagues in programmatic design, providing instruction on essential APIs and libraries to improve their efficiency</li>
+        <li>Create software tools with intuitive graphic user interfaces (GUIs) for a customer focused end-product</li>
       </ul>
     </div>
   </div>
@@ -121,11 +123,27 @@ permalink: /experience/
     <div class="experience-details">
       <p class="company-name">The Walsh Group</p>
       <p class="job-title">Project Engineer Intern</p>
-      <p class="job-dates">May - September 2022</p>
+      <p class="job-dates">June - August 2022</p>
       <ul class="job-details">
-        <li>Add detail here</li>
-        <li>Add detail here</li>
-        <li>Add detail here</li>
+        <li>Implemented new practices to reduce construction waste and pollution as the LEED Green Associate on the team </li>
+        <li>Designed engineering and structural drawings and tracked construction progress with Bluebeam Revu</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- ── Entry 3 — duplicate and fill in for each additional company ── -->
+  <div class="experience-entry">
+    <img class="company-logo"
+         src="/files/CU.jpg"
+         alt="Columbia University" />
+    <div class="experience-details">
+      <p class="company-name">Columbia University</p>
+      <p class="job-title">Research Assistant</p>
+      <p class="job-dates">May - September 2021</p>
+      <ul class="job-details">
+        <li>Developed Python code to track a tennis ball in match play through video and sound</li>
+        <li>Performed over 10,000 trials of tennis ball bounces and coded a Python algorithm to sort the data</li>
+        <li>Programmed a camera to follow and track a moving tennis ball utilizing Raspberry Pi and OpenCV Library</li>
       </ul>
     </div>
   </div>
