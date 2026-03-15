@@ -1,3 +1,7 @@
+---
+exclude: true
+---
+
 Personal website can be found at isabellamclaughlin.com
 
 To create this website, I utilized Claude AI. Prompts and responses are added below:
