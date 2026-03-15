@@ -156,16 +156,11 @@ permalink: /education/
       <p class="school-name">Columbia University</p>
       <p class="degree-title">B.S. in Engineering</p>
       <p class="degree-dates">2020</p>
+      <p class="project-desc"><strong>Minor:</strong> [Your Minor]</p>
+      <p class="project-desc"><strong>GPA:</strong> [Your GPA]</p>
 
       <p class="subsection-title">Courses</p>
       <p class="project-desc">Introduction to Computer Science, Data Structures, Linear Algebra</p>
-
-      <p class="subsection-title">Projects</p>
-      <div class="project-entry">
-        <p class="project-name">Project Name</p>
-        <p class="project-tech">Technologies used: Python, JavaScript, etc.</p>
-        <p class="project-desc">Brief description of what the project does and what you learned from it.</p>
-      </div>
     </div>
   </div>
 
@@ -175,16 +170,11 @@ permalink: /education/
       <p class="school-name">University of Washington</p>
       <p class="degree-title">M.S. in Computer Science</p>
       <p class="degree-dates">2025</p>
+      <p class="project-desc"><strong>Minor:</strong> [Your Minor]</p>
+      <p class="project-desc"><strong>GPA:</strong> [Your GPA]</p>
 
       <p class="subsection-title">Courses</p>
       <p class="project-desc">Introduction to Computer Science, Data Structures, Linear Algebra</p>
-
-      <p class="subsection-title">Projects</p>
-      <div class="project-entry">
-        <p class="project-name">Project Name</p>
-        <p class="project-tech">Technologies used: Python, JavaScript, etc.</p>
-        <p class="project-desc">Brief description of what the project does and what you learned from it.</p>
-      </div>
     </div>
   </div>
 
