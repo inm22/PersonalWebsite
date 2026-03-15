@@ -3,9 +3,9 @@ theme: minima
 url: "https://isabellamclaughlin.com"
 
 header_pages:
-  - index.md
-  - experience.md
+  - about.md
   - education.md
+  - experience.md
 
 exclude:
   - README.md
