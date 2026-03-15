@@ -1,16 +1,25 @@
 ---
 layout: page
-permalink: /
+title: About
+permalink: /about/
 ---
 
 <style>
   /* ── Fonts ── */
   @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=DM+Sans:wght@300;400;500&display=swap');
 
+    h1.post-title, .page-heading {
+    display: none;
+  }
+
   body {
     font-family: 'DM Sans', sans-serif;
     color: #1a1a2e;
     background: #fdfdfc;
+  }
+
+  .post-content, .page-content {
+    padding-top: 0 !important;
   }
 
   /* ── Hero Section ── */
