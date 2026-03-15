@@ -90,7 +90,14 @@ permalink: /experience/
   .job-details li {
     margin-bottom: 0.3rem;
   }
+
+    .experience-container {
+    margin-top: 0;
+    padding-top: 0;
+  }
+  
 </style>
+
 
 <div class="experience-container">
   <h2 class="section-title">Work Experience</h2>
