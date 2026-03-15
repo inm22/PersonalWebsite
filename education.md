@@ -150,62 +150,41 @@ permalink: /education/
 <div class="education-container">
   <h2 class="section-title">Education</h2>
 
-  <!-- ── Entry 1: Columbia University ── -->
+<!-- ── Entry 1: Columbia University ── -->
   <div class="education-entry">
-    <img class="school-logo"
-         src="/assets/images/columbia-logo.png"
-         alt="Columbia University" />
     <div class="education-details">
       <p class="school-name">Columbia University</p>
-      <p class="degree-title">B.S. in Mechanical Engineering</p>
-      <p class="degree-dates">May 2023</p>
+      <p class="degree-title">B.S. in Engineering</p>
+      <p class="degree-dates">2020</p>
 
       <p class="subsection-title">Courses</p>
-      <table class="courses-table">
-        <thead>
-          <tr>
-            <th>Course</th>
-            <th>Title</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>CSE 101</td><td>Introduction to Computer Science</td></tr>
-          <tr><td>CSE 201</td><td>Data Structures</td></tr>
-          <tr><td>MATH 301</td><td>Linear Algebra</td></tr>
-        </tbody>
-      </table>
+      <p class="project-desc">Introduction to Computer Science, Data Structures, Linear Algebra</p>
 
+      <p class="subsection-title">Projects</p>
+      <div class="project-entry">
+        <p class="project-name">Project Name</p>
+        <p class="project-tech">Technologies used: Python, JavaScript, etc.</p>
+        <p class="project-desc">Brief description of what the project does and what you learned from it.</p>
       </div>
-
     </div>
   </div>
 
   <!-- ── Entry 2: University of Washington ── -->
   <div class="education-entry">
-    <img class="school-logo"
-         src="/assets/images/uw-logo.png"
-         alt="University of Washington" />
     <div class="education-details">
       <p class="school-name">University of Washington</p>
       <p class="degree-title">M.S. in Computer Science</p>
-      <p class="degree-dates">June 2027 (Expected)</p>
+      <p class="degree-dates">2025</p>
 
       <p class="subsection-title">Courses</p>
-      <table class="courses-table">
-        <thead>
-          <tr>
-            <th>Course</th>
-            <th>Title</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>CSE 101</td><td>Introduction to Computer Science</td></tr>
-          <tr><td>CSE 201</td><td>Data Structures</td></tr>
-          <tr><td>MATH 301</td><td>Linear Algebra</td></tr>
-        </tbody>
-      </table>
-      </div>
+      <p class="project-desc">Introduction to Computer Science, Data Structures, Linear Algebra</p>
 
+      <p class="subsection-title">Projects</p>
+      <div class="project-entry">
+        <p class="project-name">Project Name</p>
+        <p class="project-tech">Technologies used: Python, JavaScript, etc.</p>
+        <p class="project-desc">Brief description of what the project does and what you learned from it.</p>
+      </div>
     </div>
   </div>
 
