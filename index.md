@@ -175,7 +175,7 @@ permalink: /
   <!-- Replace the src below with your actual photo path, e.g. /files/profile.jpg -->
   <img class="hero-photo" src="/files/profile.jpg" alt="Photo of Isabella" />
   <h1>Hi, I'm Isabella McLaughlin</h1>
-  <p class="tagline">Structural Design Engineer <br> M.S. Computer Science - Expected Jun 2027 <br> B.S. Mechanical Engineering - May 2023</p>
+  <p class="tagline">Structural Design Engineer <br> M.S. Computer Science - 2027 (Expected)<br> B.S. Mechanical Engineering - 2023</p>
 </div>
 
 <hr class="divider">
