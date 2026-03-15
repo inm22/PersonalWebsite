@@ -116,12 +116,10 @@ permalink: /experience/
       <p class="job-title">Structural Design Engineer</p>
       <p class="job-dates">September 2023 – Present</p>
       <ul class="job-details">
-        <li>Utilize Python to create assitive software tools for design and analysis engineers, saving thousands of manual labor hours</li>
+        <li>Utilize Python to create assitive software tools with intuitive GUIs for design and analysis engineers, saving thousands of manual labor hours</li>
         <li>Received a Boeing Meritorious Invention Disclosure Award for Generative Design Approach Patent</li>
         <li>Lead team code review meetings, inviting subject matter experts to enhance code quality and share common practices</li>
         <li>Create a library of modular functions to be utilized for design software tools in CATIA and 3DExperience </li>
-        <li>Mentor colleagues in programmatic design, providing instruction on essential APIs and libraries to improve their efficiency</li>
-        <li>Create software tools with intuitive graphic user interfaces (GUIs) for a customer focused end-product</li>
       </ul>
     </div>
   </div>
