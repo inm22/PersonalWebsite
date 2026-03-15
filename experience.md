@@ -2,6 +2,7 @@
 layout: page
 title: Experience
 permalink: /experience/
+nav_exclude: false
 ---
 
 <style>
