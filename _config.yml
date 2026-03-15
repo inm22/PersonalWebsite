@@ -6,3 +6,6 @@ header_pages:
   - index.md
   - experience.md
   - education.md
+
+exclude:
+  - README.md
