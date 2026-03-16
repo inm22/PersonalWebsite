@@ -154,13 +154,14 @@ permalink: /education/
   <div class="education-entry">
     <div class="education-details">
       <p class="school-name">Columbia University</p>
-      <p class="degree-title">B.S. in Engineering</p>
-      <p class="degree-dates">2020</p>
-      <p class="project-desc"><strong>Minor:</strong> [Your Minor]</p>
-      <p class="project-desc"><strong>GPA:</strong> [Your GPA]</p>
+      <p class="degree-title">B.S. in Mechanical Engineering</p>
+      <p class="degree-dates">2023</p>
+      <p class="project-desc"><strong>Minor:</strong> Hispanic Studies</p>
+      <p class="project-desc"><strong>GPA:</strong> 3.82</p>
 
       <p class="subsection-title">Courses</p>
-      <p class="project-desc">Introduction to Computer Science, Data Structures, Linear Algebra</p>
+      <p class="project-desc"> Intro to Computer Programming in Java, Foundations of Data Science, Intro to Electrical Engineering, 
+Computer Graphics & Design, Control Systems, Human Centered Design, Robotics Studio</p>
     </div>
   </div>
 
@@ -169,12 +170,11 @@ permalink: /education/
     <div class="education-details">
       <p class="school-name">University of Washington</p>
       <p class="degree-title">M.S. in Computer Science</p>
-      <p class="degree-dates">2025</p>
-      <p class="project-desc"><strong>Minor:</strong> [Your Minor]</p>
-      <p class="project-desc"><strong>GPA:</strong> [Your GPA]</p>
+      <p class="degree-dates">2027 (Expected)</p>
+      <p class="project-desc"><strong>GPA:</strong> 4.0</p>
 
       <p class="subsection-title">Courses</p>
-      <p class="project-desc">Introduction to Computer Science, Data Structures, Linear Algebra</p>
+      <p class="project-desc">Evaluating Software Design, Network Systems,  Computer-Aided Reasoning for Software</p>
     </div>
   </div>
 
