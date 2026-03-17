@@ -2,6 +2,8 @@
 exclude: true
 ---
 
+Github can be found at github.com/inm22/PersonalWebsite/
+
 Personal website can be found at isabellamclaughlin.com
 
 To create this website, I utilized Claude AI. Prompts and responses are added below:
