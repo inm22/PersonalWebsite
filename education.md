@@ -171,7 +171,7 @@ Computer Graphics & Design, Control Systems, Human Centered Design, Robotics Stu
       <p class="school-name">University of Washington</p>
       <p class="degree-title">M.S. in Computer Science</p>
       <p class="degree-dates">2027 (Expected)</p>
-      <p class="project-desc"><strong>GPA:</strong> 4.0</p>
+      <p class="project-desc"><strong>GPA:</strong> 3.9</p>
 
       <p class="subsection-title">Courses</p>
       <p class="project-desc">Evaluating Software Design, Network Systems,  Computer-Aided Reasoning for Software</p>
